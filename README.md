@@ -8,3 +8,7 @@ Use the /src/debug.sh or .bat file for opening GTKWave
 
 Note:
 You need to have GTKWave, vvp and iverilog installed on your system
+
+Check out the LICENSE File for getting more Information about the License used in this project.
+
+The config.json and inverter.v are derived from these <a href="https://github.com/The-OpenROAD-Project/OpenLane/tree/master/designs/inverter">files from the OpenLane Repo</a>
